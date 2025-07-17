@@ -70,7 +70,7 @@ Currently registered for the Industrial Training Program (July 2025 – October 
 ### 🎯 **Hyper Cars Dealership E-Commerce**
 **Description:** Led the development of a comprehensive e-commerce platform for a hypercar dealership. The system features multi-role authentication (Admin, Staff, Driver, Customer), robust car inventory management, and an end-to-end order management system with status tracking.  
 **Technologies Used:** [Django, SQLite, HTML, CSS, JavaScript]  
-🔗 `[GitHub Link]` *(<-- Replace with your actual link)*
+🔗 [`[GitHub Link]` ](https://github.com/MostafaKamel-M/Hyper-Cars-Dealership-E-Commerce)
 
 ---
 
@@ -84,7 +84,7 @@ Currently registered for the Industrial Training Program (July 2025 – October 
 ### 🎯 **E-Commerce Platform Database Clone**
 **Description:** Designed and implemented a relational database modeled after a large-scale e-commerce platform like Lazada. The project involved creating a normalized schema and using advanced SQL queries, views, triggers, and stored procedures for comprehensive reporting and data automation.  
 **Technologies Used:** [SQL, Relational Database Design]  
-🔗 `[GitHub Link]` *(<-- Replace with your actual link)*
+🔗 [`[GitHub Link]` ](https://github.com/MostafaKamel-M/E-Commerce-shopping-Platform-Database-Clone-)
 
 
 ---
